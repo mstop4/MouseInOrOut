@@ -1,0 +1,2 @@
+dragging = true;
+message = "Dragging!";

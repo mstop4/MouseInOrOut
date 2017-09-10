@@ -1,2 +1,3 @@
 #ignore files for linguist
 *.nsi linguist-vendored
+*.yy linguist-vendored

@@ -1,0 +1,1 @@
+is_inside = MIOO_getSide();
